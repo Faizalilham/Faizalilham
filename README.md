@@ -40,24 +40,20 @@ I'm Faizal - I'm a Mobile Developer Enthusiasts, I'm so anthusiast in Android Ko
 <img alt="Faizalilham's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizalilham&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 
-<a href="https://github.com/Faizalilham">
-<img alt="Faizalilham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Faizalilham&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
 
-## GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faizalilham&theme=solarized_dark)
 
 <!-- ## Github Profile Summary Card
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem96&theme=solarized_dark) -->
 
-## Top Languages
+
+
+## 🚀 Languages and Tools:
+
 <p align="center">
 <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizalilham&theme=solarized_dark" />
 <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizalilham&theme=solarized_dark" />
 </p>
-
-
-## 🚀 Languages and Tools:
 
 <a href="https://github.com/Faizalilham">
 <img alt="Faizalilham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizalilham&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
