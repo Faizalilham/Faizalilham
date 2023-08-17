@@ -1,14 +1,15 @@
-# Hey There! 👋
+# Holla Guys! 👋
 I'm Faizal - I'm a Mobile Developer Enthusiasts, I'm so anthusiast in Android Kotlin and Dart/Flutter.
-- 📫 How to reach me ... 
+- 📫 How to reach me ...
+  
      email: faizalfalakh19@gmail.com
 
 <h1 align='center'>
-  Orang Ganteng dan Intelek
+  Handsome and Intellectual People
 </h1>
 
 <p align='center'>
- Follow me on social media down bellow
+ Follow my social media below
 </p>
 
 <p align='center'>
@@ -30,7 +31,7 @@ I'm Faizal - I'm a Mobile Developer Enthusiasts, I'm so anthusiast in Android Ko
 
 ### 💻 Tech Stack:
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,firebase,androidstudio,postman,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,firebase,androidstudio,vscode,postman,git,github&theme=dark" />
   </a>
 
 ## 📊 My Github Statistics
