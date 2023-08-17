@@ -3,11 +3,6 @@ I'm Faizal - I'm a Mobile Developer Enthusiasts, I'm so anthusiast in Android Ko
 - 📫 How to reach me ... 
      email: faizalfalakh19@gmail.com
 
-### 💻 Tech Stack:
-<a href="#">
-    <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,firebase,androidstudio,postman,git,github&theme=dark" />
-  </a>
-
 <h1 align='center'>
   Orang Ganteng dan Intelek
 </h1>
@@ -32,6 +27,11 @@ I'm Faizal - I'm a Mobile Developer Enthusiasts, I'm so anthusiast in Android Ko
  </a>
   
 </p>
+
+### 💻 Tech Stack:
+<a href="#">
+    <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,firebase,androidstudio,postman,git,github&theme=dark" />
+  </a>
 
 ## 📊 My Github Statistics
 
