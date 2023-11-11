@@ -60,7 +60,7 @@ I'm Faizal - I'm a Mobile Developer Enthusiasts, I'm so anthusiast in Android Ko
 </a>
 
 <h3  align='center'>
- Jazakallah Khairon Shukran kasiron <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" > 
+ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" > 
  
 <a href="https://github.com/Faizalilham">
     <img src="https://komarev.com/ghpvc/?username=Faizalilham">
