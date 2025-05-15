@@ -3,6 +3,7 @@ I'm Faizal - I'm a Mobile Developer Enthusiasts, I'm so anthusiast in Android Ko
 - 📫 How to reach me ...
   
      email: faizalfalakh19@gmail.com
+     phone number : +62895421971694
 
 <h1 align='center'>
   Handsome and Intellectual People
