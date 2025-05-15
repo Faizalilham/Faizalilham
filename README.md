@@ -2,7 +2,7 @@
 I'm Faizal - I'm a Mobile Developer Enthusiasts, I'm so anthusiast in Android Kotlin and Dart/Flutter.
 - 📫 How to reach me ...
   
-     email: faizalfalakh19@gmail.com \n
+     email: faizalfalakh19@gmail.com<br>
      phone number : +62895421971694
 
 <h1 align='center'>
